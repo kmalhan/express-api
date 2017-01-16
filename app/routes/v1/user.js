@@ -76,24 +76,5 @@ router.put('/:id', function (req, res) {
 		});
 });
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Register as module
 module.exports = router;
